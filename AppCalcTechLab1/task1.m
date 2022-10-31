@@ -67,7 +67,7 @@ C
 
 # Fifth subtask
 
-fprintf("A * X = C => Vector X:\n")
+fprintf("A * X = C => X:\n")
 X = A \ C
 
 # Sixth subtask
@@ -131,8 +131,6 @@ title("Ninth 2-nd 1/2 subtask");
 xlabel("x");
 ylabel("y");
 legend("sqrt(atan(x))");
-
-
 
 # Tenth subtask
 
